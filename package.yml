@@ -1,0 +1,22 @@
+name       : et
+version    : 3.0.6
+release    : 1
+source     :
+    - https://github.com/MisterTea/EternalTCP/archive/et-v3.0.6.tar.gz : 34860a8f75b3d1ed406a3d9eb73c1cf85435f639c0de4ef77d4b78e4b7812efc
+license    : Apache-2.0
+component  : network.remote
+summary    : Re-Connectable TCP connection
+description: |
+    Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session.
+builddeps  :
+    - pkgconfig(gflags)
+    - pkgconfig(libglog)
+    - pkgconfig(libsodium)
+    - pkgconfig(protobuf)
+    - libboost-devel
+setup      : |
+    %cmake
+build      : |
+    %make
+install    : |
+    %make_install
