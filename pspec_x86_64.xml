@@ -2,11 +2,11 @@
     <Source>
         <Name>et</Name>
         <Packager>
-            <Name>Jason Hines</Name>
-            <Email>jason@hinesnetwork.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>Apache-2.0</License>
-        <PartOf>network.clients</PartOf>
+        <PartOf>network.remote</PartOf>
         <Summary xml:lang="en">Re-Connectable TCP connection</Summary>
         <Description xml:lang="en">Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session.
 </Description>
@@ -17,18 +17,18 @@
         <Summary xml:lang="en">Re-Connectable TCP connection</Summary>
         <Description xml:lang="en">Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session.
 </Description>
-        <PartOf>network.clients</PartOf>
+        <PartOf>network.remote</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-06-21</Date>
-            <Version>3.0.6</Version>
+        <Update release="2">
+            <Date>2017-09-03</Date>
+            <Version>4.0.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>Jason Hines</Name>
-            <Email>jason@hinesnetwork.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>

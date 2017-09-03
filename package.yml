@@ -1,8 +1,8 @@
 name       : et
-version    : 3.0.6
-release    : 1
+version    : 4.0.4
+release    : 2
 source     :
-    - https://github.com/MisterTea/EternalTCP/archive/et-v3.0.6.tar.gz : 34860a8f75b3d1ed406a3d9eb73c1cf85435f639c0de4ef77d4b78e4b7812efc
+    - https://github.com/MisterTea/EternalTCP/archive/et-v4.0.4.tar.gz : 74c5d81821ae8350c1d65c0f5393dfb2fe2b1014db601de1d05c3599afcf5830
 license    : Apache-2.0
 component  : network.remote
 summary    : Re-Connectable TCP connection
