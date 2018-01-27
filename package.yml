@@ -1,6 +1,6 @@
 name       : et
 version    : 4.1.2
-release    : 3
+release    : 4
 source     :
     - https://github.com/MisterTea/EternalTCP/archive/et-v4.1.2.tar.gz : 94aeab8fbebe2df843aa324659d418ba9061b9bbfef8b31d805e95987f28122e
 license    : Apache-2.0
