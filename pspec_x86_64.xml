@@ -2,8 +2,8 @@
     <Source>
         <Name>et</Name>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>network.remote</PartOf>
@@ -19,16 +19,20 @@
 </Description>
         <PartOf>network.remote</PartOf>
         <Files>
-            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="executable">/usr/bin/et</Path>
+            <Path fileType="executable">/usr/bin/etserver</Path>
+            <Path fileType="executable">/usr/bin/etterminal</Path>
+            <Path fileType="executable">/usr/bin/htm</Path>
+            <Path fileType="executable">/usr/bin/htmd</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2018-02-05</Date>
-            <Version>4.1.2</Version>
+        <Update release="6">
+            <Date>2019-01-09</Date>
+            <Version>5.1.8</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
