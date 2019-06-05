@@ -2,15 +2,15 @@
     <Source>
         <Name>et</Name>
         <Packager>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>network.remote</PartOf>
         <Summary xml:lang="en">Re-Connectable TCP connection</Summary>
         <Description xml:lang="en">Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>et</Name>
@@ -27,12 +27,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2019-01-09</Date>
-            <Version>5.1.8</Version>
+        <Update release="7">
+            <Date>2019-06-05</Date>
+            <Version>5.1.10</Version>
             <Comment>Packaging update</Comment>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
