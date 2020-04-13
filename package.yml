@@ -1,6 +1,6 @@
 name       : et
 version    : 5.1.10
-release    : 7
+release    : 8
 source     :
     - https://github.com/MisterTea/EternalTerminal/archive/et-v5.1.10.tar.gz : cfe368b3b79d5d07d59ee0437d6a7b838e6162ae85ffc71ca7988b37b46a477b
 license    : Apache-2.0
