@@ -2,8 +2,8 @@
     <Source>
         <Name>et</Name>
         <Packager>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>network.remote</PartOf>
@@ -27,12 +27,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="8">
-            <Date>2020-04-10</Date>
+        <Update release="9">
+            <Date>2020-07-09</Date>
             <Version>5.1.10</Version>
             <Comment>Packaging update</Comment>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
